@@ -35,7 +35,7 @@ const BLOG = {
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
   CONTACT_EMAIL: '1458782353@qq.com',
-  CONTACT_TWITTER: '',
+  CONTACT_TWITTER: '@Dwight_2333',
 
   // 鼠标点击烟花特效
   FIREWORKS: process.env.NEXT_PUBLIC_FIREWORKS || true, // 鼠标点击烟花特效
